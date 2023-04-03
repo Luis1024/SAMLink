@@ -9,12 +9,12 @@ This repository is the Pytorch implementation for SAMLink:  Mobility Signature A
 - scikit-learn 1.0.2
 
 # Datasets
-## Raw data：
+### Raw data：
   - Check-in: <https://sites.google.com/site/yangdingqi/home/foursquare-dataset>
   - TCD: a private dataset
   - ERI taxi: a private dataset
 
-## Prepocessed data：
+### Prepocessed data：
 The prepocessed check-in data is uploaded in the folder data. Due to data privacy regulations, the TCD dataset and ERI taxi dataset are not publicly available.
 
 # Usage
