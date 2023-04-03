@@ -18,5 +18,5 @@ This repository is the Pytorch implementation for SAMLink:  Mobility Signature A
 The prepocessed check-in data is uploaded in the folder data. Due to data privacy regulations, the TCD dataset and ERI taxi dataset are not publicly available.
 
 # Usage
-To run SAMLink, run the following commands:
+To run SAMLink, run the following commands:  
 run main.py
