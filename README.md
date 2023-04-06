@@ -1,5 +1,5 @@
 # SAMLink
-This repository is the Pytorch implementation for SAMLink:  Mobility Signature AugmentationModel for Trajectory-User Linking
+Pytorch implementation for SAMLink:  Mobility Signature Augmentation Model for Trajectory-User Linking
 
 # Requirements
 - Python 3.7
